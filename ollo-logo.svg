@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="ollo 3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" />
+  <defs id="defs1" />
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <rect style="fill:#4c6792;fill-opacity:1;stroke:none;stroke-width:0.263961" id="rect1" width="210" height="210" x="0" y="43.5" rx="18" ry="18"/>
+    <g aria-label="ollo" transform="matrix(1.1693662,0,0,1.1693662,-16.458,-21.533)" id="text1" style="font-size:63.6114px;font-family:Candara;-inkscape-font-specification:'Candara, Normal';fill:#ffffff;stroke-width:0.855164">
+      <path d="m 53.026,151.763 q 0,14.224 -7.579,22.251 -7.579,8.028 -20.457,8.028 -12.878,0 -20.457,-8.028 -7.579,-8.027 -7.579,-22.251 0,-14.223 7.579,-22.251 7.579,-8.027 20.457,-8.027 12.878,0 20.457,8.027 7.579,8.028 7.579,22.251 z m -7.866,0 q 0,-11.197 -5.496,-17.597 -5.496,-6.4 -14.674,-6.4 -9.178,0 -14.674,6.4 -5.496,6.4 -5.496,17.597 0,11.198 5.496,17.598 5.496,6.4 14.674,6.4 9.178,0 14.674,-6.4 5.496,-6.4 5.496,-17.598 z" id="path1"/>
+      <path d="m 80.736,181.017 h -7.354 v -60.504 h 7.354 z" id="path2"/>
+      <path d="m 105.326,181.017 h -7.354 v -60.504 h 7.354 z" id="path3"/>
+      <path d="m 163.259,151.763 q 0,14.224 -7.579,22.251 -7.579,8.028 -20.457,8.028 -12.878,0 -20.457,-8.028 -7.579,-8.027 -7.579,-22.251 0,-14.223 7.579,-22.251 7.579,-8.027 20.457,-8.027 12.878,0 20.457,8.027 7.579,8.028 7.579,22.251 z m -7.866,0 q 0,-11.197 -5.496,-17.597 -5.496,-6.4 -14.674,-6.4 -9.178,0 -14.674,6.4 -5.496,6.4 -5.496,17.597 0,11.198 5.496,17.598 5.496,6.4 14.674,6.4 9.178,0 14.674,-6.4 5.496,-6.4 5.496,-17.598 z" id="path4"/>
+    </g>
+  </g>
+</svg>
