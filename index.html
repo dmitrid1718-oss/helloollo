@@ -30,6 +30,9 @@ body{background-color:var(--paper);background-blend-mode:multiply}
 .logo{mix-blend-mode:normal}
 a:focus-visible{outline-color:#ffffff}
 :root{--blue:#82a6ce}.contact-face{filter:url(#contact-light-blue)}
+
+/* Subtle horizontal fabric-like texture. */
+body{background-image:repeating-linear-gradient(to bottom,rgba(255,255,255,.025) 0,rgba(255,255,255,.025) 1px,rgba(0,0,0,.035) 1px,rgba(0,0,0,.035) 2px,transparent 2px,transparent 5px);background-blend-mode:normal}
 </style>
 </head>
 <body id="top"><svg width="0" height="0" aria-hidden="true" style="position:absolute"><defs><filter id="contact-light-blue"><feFlood flood-color="#82a6ce"/><feComposite in2="SourceAlpha" operator="in"/></filter></defs></svg>
