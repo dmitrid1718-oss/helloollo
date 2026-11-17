@@ -12,3 +12,12 @@
   100%{opacity:0;filter:brightness(1)}
 }
 @media(prefers-reduced-motion:reduce){.hero-art.logo-signal .jacket-logo-flicker{animation:none;opacity:.28}}
+
+/* Epistula I — a restrained first glimpse, without changing Collection 001. */
+.epistula{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:30px;padding:72px 10%;background:#171b1d;border-bottom:1px solid #ffffff1a}
+.epistula-copy{max-width:510px}.epistula .eyebrow{color:#abaeac;font-size:9px;margin-bottom:22px}
+.epistula h2{font-family:Georgia,'Times New Roman',serif;font-weight:400;font-style:italic;font-size:clamp(49px,5vw,80px);letter-spacing:-.035em;line-height:1;margin:0 0 18px;color:#f0ede6}
+.epistula h2 span{font-size:.65em}.epistula-tagline{font-family:Georgia,'Times New Roman',serif;font-size:clamp(20px,2vw,27px);margin:0 0 24px;color:#ede7dd}
+.epistula-desc{font-size:14px;line-height:1.8;color:#b6b9b7;max-width:410px}.epistula-foot{font-size:9px;letter-spacing:.27em;color:#9a9e9b;margin-top:34px}
+.epistula-tee{max-width:460px;width:100%;margin:0 auto;text-align:center}.epistula-tee svg{display:block;width:100%;height:auto}.epistula-tee figcaption{font-size:9px;letter-spacing:.23em;color:#858b89;margin-top:3px}
+@media(max-width:650px){.epistula{grid-template-columns:1fr;gap:8px;padding:65px 7% 42px}.epistula .eyebrow{font-size:8px}.epistula-desc{font-size:13px}.epistula-tee{max-width:350px}.epistula-foot{margin-top:26px}}
